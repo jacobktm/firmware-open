@@ -32,6 +32,7 @@ pushd edk2 >/dev/null
     -b "${BUILD_TYPE}" \
     -t "${TOOLCHAIN}" \
     -p "${PACKAGE}/${PACKAGE}.dsc" \
+    -DBUILD_ARCH=X64 \
     "${@:2}"
 
   cp -v \
