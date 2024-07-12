@@ -13,6 +13,7 @@ features apply to your model and firmware version, see the
 - Reverted unlock prompt change to restore intended behavior
 - darp10: Fixed reporting of the second fan
 - whl-u: Updated CSME to 12.0.95.2489v2 (12.0.94.2428)
+- bonw15-b: Added initial release of open firmware with System76 EC
 
 ## 2024-07-01
 
