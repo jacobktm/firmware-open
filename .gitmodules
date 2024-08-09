@@ -4,7 +4,7 @@
 	branch = system76
 [submodule "coreboot"]
 	path = coreboot
-	url = https://github.com/system76/coreboot.git
+	url = git@github.com:jacobktm/coreboot.git
 	branch = system76
 [submodule "tools/UEFITool"]
 	path = tools/UEFITool
@@ -36,7 +36,7 @@
 	branch = master
 [submodule "ec"]
 	path = ec
-	url = https://github.com/system76/ec.git
+	url = git@github.com:jacobktm/ec.git
 	branch = master
 [submodule "tools/apobtool"]
 	path = tools/apobtool
